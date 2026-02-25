@@ -9,10 +9,10 @@ export default function Features() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-3xl mx-auto mb-20">
           <h2 className="text-3xl lg:text-[40px] font-bold text-dark mb-6">
-            Three features. One mission: never miss a sale.
+            Never miss a sale.
           </h2>
           <p className="text-lg lg:text-xl text-slate-gray">
-            Built around the actual workflow of cannabis field sales reps — not a generic CRM shoved into your industry.
+            Built around the actual workflow of cannabis field sales reps.
           </p>
         </div>
 
@@ -25,7 +25,7 @@ export default function Features() {
           >
             <h3 className="text-2xl lg:text-3xl font-bold text-dark mb-4">Every dispensary. Every detail. One click away.</h3>
             <p className="text-slate-gray text-lg mb-8 leading-relaxed">
-              See every account&apos;s complete history — visits, orders, samples, buyer preferences, competitor intel, and contact details. When a rep transitions, zero knowledge is lost. Your new rep sees the full story from day one.
+              See every account&apos;s complete history - visits, orders, samples, buyer preferences, competitor intel, and contact details. When a rep transitions, zero knowledge is lost. Your new rep sees the full story from day one.
             </p>
             <ul className="space-y-4">
               {[
