@@ -40,8 +40,8 @@ export default function Metrics() {
       label: "in annual cannabis stockouts from missed reorders"
     },
     {
-      value: "17.5 hrs",
-      label: "per week lost to manual wholesale coordination"
+      value: "17",
+      label: "hours per week lost to manual wholesale coordination"
     },
     {
       value: "60%",
