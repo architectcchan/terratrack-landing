@@ -40,12 +40,12 @@ export default function Metrics() {
       label: "in annual cannabis stockouts from missed reorders"
     },
     {
-      value: "15-20 hrs",
+      value: "17.5 hrs",
       label: "per week lost to manual wholesale coordination"
     },
     {
       value: "60%",
-      label: "of budtenders leave within 2 months — taking brand training with them"
+      label: "of budtenders leave within 2 months - taking brand training with them"
     },
     {
       value: "27",
@@ -90,7 +90,7 @@ export default function Metrics() {
           className="text-center max-w-3xl mx-auto"
         >
           <p className="text-lg text-slate-gray italic">
-            &quot;Trova was built by a cannabis sales rep who scaled a brand to 100+ retail locations. Every feature exists because we lived the pain.&quot;
+            &quot;Trova was built for cannabis sales teams by cannabis sales teams. Every feature exists because we lived the pain.&quot;
           </p>
         </motion.div>
       </div>

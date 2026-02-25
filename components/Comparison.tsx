@@ -5,9 +5,9 @@ import { Check, X } from "lucide-react";
 
 export default function Comparison() {
   const features = [
-    { name: "Cannabis-specific data (strains, THC, samples)", tt: true, sf: false, sheet: false, ll: "Partial" },
+    { name: "Cannabis-specific data (strains, THC, samples)", tt: true, sf: false, sheet: "Manual", ll: "Partial" },
     { name: "30-second mobile visit logging", tt: true, sf: false, sheet: false, ll: false },
-    { name: "Sample lifecycle tracking (5-8 week aging)", tt: true, sf: false, sheet: false, ll: false },
+    { name: "Sample lifecycle tracking (5-8 week aging)", tt: true, sf: false, sheet: "Manual", ll: false },
     { name: "Buyer feedback (look, smell, pricing fit)", tt: true, sf: false, sheet: "Manual", ll: false },
     { name: "AI voice-to-CRM", tt: true, sf: false, sheet: false, ll: false },
     { name: "Reorder prediction", tt: true, sf: false, sheet: false, ll: false },
