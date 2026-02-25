@@ -40,7 +40,7 @@ export default function Comparison() {
           className="overflow-x-auto pb-8"
         >
           <div className="min-w-[800px] bg-white rounded-2xl shadow-sm border border-border-light overflow-hidden">
-            <div className="grid grid-cols-5 border-b border-border-light bg-slate-50">
+            <div className="grid grid-cols-6 border-b border-border-light bg-slate-50">
               <div className="col-span-2 p-6 font-bold text-dark text-lg">Feature</div>
               <div className="p-6 font-bold text-primary text-center bg-light-green/50 border-x border-success/20">TerraTrack</div>
               <div className="p-6 font-bold text-dark text-center">Salesforce / HubSpot</div>
@@ -50,7 +50,7 @@ export default function Comparison() {
             
             <div className="divide-y divide-border-light">
               {features.map((row, i) => (
-                <div key={i} className="grid grid-cols-5 hover:bg-slate-50 transition-colors">
+                <div key={i} className="grid grid-cols-6 hover:bg-slate-50 transition-colors">
                   <div className="col-span-2 p-4 px-6 text-dark font-medium flex items-center">{row.name}</div>
                   <div className="p-4 flex items-center justify-center bg-light-green/30 border-x border-success/10">
                     {row.tt === true ? <Check className="w-6 h-6 text-success mx-auto" /> : <span className="font-bold text-primary">{row.tt}</span>}
