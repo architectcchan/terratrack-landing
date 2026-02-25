@@ -12,7 +12,7 @@ export default function PainPoints() {
     },
     {
       icon: <FileSpreadsheet className="w-8 h-8 text-accent" />,
-      title: "Your account tracking is outdated",
+      title: "Your accounts are outdated",
       description: "You built a Google Sheet to track accounts. It was outdated the moment you shared it. Your manager has no idea what your team did today."
     },
     {
