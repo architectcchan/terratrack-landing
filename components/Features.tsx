@@ -52,8 +52,8 @@ export default function Features() {
               <div className="p-6 border-b border-border-light bg-light-slate">
                 <div className="flex justify-between items-start mb-4">
                   <div>
-                    <h4 className="font-bold text-xl text-dark">Have a Heart — Capitol Hill</h4>
-                    <p className="text-sm text-slate-gray">115 15th Ave E, Seattle, WA</p>
+                    <h4 className="font-bold text-xl text-dark">Have a Heart, Belltown</h4>
+                    <p className="text-sm text-slate-gray">115 Blanchard St, Seattle, WA 98121</p>
                   </div>
                   <div className="flex flex-col gap-2 items-end">
                     <span className="px-2 py-1 bg-success/10 text-success text-xs font-bold rounded-md">Active</span>
