@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { Menu, X, MapPin } from "lucide-react";
+import { Menu, X } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
 import Link from "next/link";
 
@@ -33,12 +33,9 @@ export default function Navbar() {
       }`}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center justify-between">
-        <div className="flex items-center gap-2">
-          <MapPin className="w-6 h-6 text-primary" />
-          <span className="font-bold text-xl text-primary tracking-tight">
-            Trova
-          </span>
-        </div>
+        <Link href="/" className="flex items-center gap-2">
+          <img src="/logo.svg" alt="Trova" className="h-8 w-auto" />
+        </Link>
 
         {/* Desktop Nav */}
         <nav className="hidden md:flex items-center gap-8">

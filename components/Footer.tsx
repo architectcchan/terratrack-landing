@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { MapPin } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -9,10 +8,7 @@ export default function Footer() {
           {/* Column 1 */}
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <MapPin className="w-6 h-6 text-primary" />
-              <span className="font-bold text-xl text-white tracking-tight">
-                Trova
-              </span>
+              <img src="/logo.svg" alt="Trova" className="h-8 w-auto brightness-0 invert" />
             </div>
             <p className="text-sm text-slate-400 mb-6">
               The sales command center for cannabis brands
