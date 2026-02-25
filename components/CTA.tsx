@@ -29,7 +29,7 @@ export default function CTA() {
               Start Your Free Trial →
             </Link>
             <p className="text-light-green/80 text-sm">
-              or email us at <a href="mailto:hello@terratrack.app" className="underline hover:text-white transition-colors">hello@terratrack.app</a>
+              or email us at <a href="mailto:hello@trova.cc" className="underline hover:text-white transition-colors">hello@trova.cc</a>
             </p>
           </div>
         </motion.div>

@@ -90,7 +90,7 @@ export default function Metrics() {
           className="text-center max-w-3xl mx-auto"
         >
           <p className="text-lg text-slate-gray italic">
-            &quot;TerraTrack was built by a cannabis sales rep who scaled a brand to 100+ retail locations. Every feature exists because we lived the pain.&quot;
+            &quot;Trova was built by a cannabis sales rep who scaled a brand to 100+ retail locations. Every feature exists because we lived the pain.&quot;
           </p>
         </motion.div>
       </div>

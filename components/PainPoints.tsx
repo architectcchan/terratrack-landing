@@ -63,7 +63,7 @@ export default function PainPoints() {
           className="text-center"
         >
           <p className="text-xl lg:text-2xl font-medium text-accent">
-            TerraTrack replaces the chaos with clarity.
+            Trova replaces the chaos with clarity.
           </p>
         </motion.div>
       </div>

@@ -42,7 +42,7 @@ export default function Comparison() {
           <div className="min-w-[900px] bg-white rounded-2xl shadow-sm border border-border-light overflow-hidden">
             <div className="grid grid-cols-6 border-b border-border-light bg-slate-50">
               <div className="col-span-2 p-6 font-bold text-dark text-lg">Feature</div>
-              <div className="p-6 font-bold text-primary text-center bg-light-green/50 border-x border-success/20">TerraTrack</div>
+              <div className="p-6 font-bold text-primary text-center bg-light-green/50 border-x border-success/20">Trova</div>
               <div className="p-6 font-bold text-dark text-center">Salesforce / HubSpot</div>
               <div className="p-6 font-bold text-dark text-center">Spreadsheets</div>
               <div className="p-6 font-bold text-dark text-center">LeafLink</div>

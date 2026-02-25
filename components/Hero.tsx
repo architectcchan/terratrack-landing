@@ -26,7 +26,7 @@ export default function Hero() {
             </h1>
             
             <p className="text-lg sm:text-xl text-slate-gray mb-8 max-w-2xl leading-relaxed">
-              TerraTrack gives cannabis brand sales managers real-time visibility into every rep visit, sample drop, and pipeline deal — so no dispensary relationship falls through the cracks.
+              Trova gives cannabis brand sales managers real-time visibility into every rep visit, sample drop, and pipeline deal — so no dispensary relationship falls through the cracks.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto mb-8">
@@ -74,7 +74,7 @@ export default function Hero() {
                   <div className="w-3 h-3 rounded-full bg-amber-400"></div>
                   <div className="w-3 h-3 rounded-full bg-green-400"></div>
                   <div className="mx-auto bg-white px-24 py-1 rounded text-[10px] text-slate-400 font-mono">
-                    terratrack.app/dashboard
+                    trova.cc/dashboard
                   </div>
                 </div>
                 

@@ -176,7 +176,7 @@ export default function Features() {
           >
             <h3 className="text-2xl lg:text-3xl font-bold text-dark mb-4">The app that tells you what to do today.</h3>
             <p className="text-slate-gray text-lg mb-8 leading-relaxed">
-              TerraTrack monitors your sample aging, visit frequency, and ordering patterns. It surfaces the 5 things you need to do today — before you even check your phone. No more &quot;I forgot to call them back.&quot;
+              Trova monitors your sample aging, visit frequency, and ordering patterns. It surfaces the 5 things you need to do today — before you even check your phone. No more &quot;I forgot to call them back.&quot;
             </p>
             <ul className="space-y-4">
               {[

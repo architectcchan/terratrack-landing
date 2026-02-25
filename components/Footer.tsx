@@ -11,14 +11,14 @@ export default function Footer() {
             <div className="flex items-center gap-2 mb-4">
               <MapPin className="w-6 h-6 text-primary" />
               <span className="font-bold text-xl text-white tracking-tight">
-                TerraTrack
+                Trova
               </span>
             </div>
             <p className="text-sm text-slate-400 mb-6">
               The sales command center for cannabis brands
             </p>
             <p className="text-sm text-slate-500">
-              &copy; {new Date().getFullYear()} TerraTrack. All rights reserved.
+              &copy; {new Date().getFullYear()} Trova. All rights reserved.
             </p>
           </div>
 
@@ -39,7 +39,7 @@ export default function Footer() {
             <h4 className="font-bold text-white mb-4">Company</h4>
             <ul className="space-y-3 text-sm">
               <li><Link href="#" className="hover:text-white transition-colors">About</Link></li>
-              <li><Link href="mailto:hello@terratrack.app" className="hover:text-white transition-colors">Contact</Link></li>
+              <li><Link href="mailto:hello@trova.cc" className="hover:text-white transition-colors">Contact</Link></li>
               <li><Link href="#" className="hover:text-white transition-colors">Privacy Policy</Link></li>
               <li><Link href="#" className="hover:text-white transition-colors">Terms of Service</Link></li>
             </ul>

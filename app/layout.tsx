@@ -10,13 +10,13 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'TerraTrack — Cannabis Sales CRM',
+  title: 'Trova — Cannabis Sales CRM',
   description: 'The CRM built for how cannabis reps actually sell. Never lose a sale because you forgot to follow up.',
   openGraph: {
-    title: 'TerraTrack — Cannabis Sales CRM',
+    title: 'Trova — Cannabis Sales CRM',
     description: 'The CRM built for how cannabis reps actually sell. Never lose a sale because you forgot to follow up.',
     url: 'https://terratrack-66zj.vercel.app',
-    siteName: 'TerraTrack',
+    siteName: 'Trova',
     locale: 'en_US',
     type: 'website',
   },

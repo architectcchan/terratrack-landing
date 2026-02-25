@@ -36,7 +36,7 @@ export default function Navbar() {
         <div className="flex items-center gap-2">
           <MapPin className="w-6 h-6 text-primary" />
           <span className="font-bold text-xl text-primary tracking-tight">
-            TerraTrack
+            Trova
           </span>
         </div>
 

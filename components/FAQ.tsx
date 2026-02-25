@@ -8,15 +8,15 @@ export default function FAQ() {
   const faqs = [
     {
       q: "Is this legal? Can I use software for cannabis sales?",
-      a: "Absolutely. TerraTrack is a CRM for tracking business relationships and sales activities. We don't touch the plant, handle payments, or interact with METRC. If your business operates legally in your state, TerraTrack is a standard business tool — just like using Salesforce or HubSpot."
+      a: "Absolutely. Trova is a CRM for tracking business relationships and sales activities. We don't touch the plant, handle payments, or interact with METRC. If your business operates legally in your state, Trova is a standard business tool — just like using Salesforce or HubSpot."
     },
     {
       q: "Do my reps need to download an app?",
-      a: "No. TerraTrack is a web app that works in any mobile browser — Safari, Chrome, Firefox. No app store download needed. Reps bookmark it to their home screen and it works like a native app."
+      a: "No. Trova is a web app that works in any mobile browser — Safari, Chrome, Firefox. No app store download needed. Reps bookmark it to their home screen and it works like a native app."
     },
     {
       q: "What if a rep leaves? Do we lose their data?",
-      a: "Never. That's literally why TerraTrack exists. Every visit note, buyer preference, pricing agreement, and sample record stays with the account. When you reassign a territory to a new rep, they see the complete history from day one."
+      a: "Never. That's literally why Trova exists. Every visit note, buyer preference, pricing agreement, and sample record stays with the account. When you reassign a territory to a new rep, they see the complete history from day one."
     },
     {
       q: "Can I import my existing accounts from a spreadsheet?",
@@ -24,7 +24,7 @@ export default function FAQ() {
     },
     {
       q: "How is this different from LeafLink?",
-      a: "LeafLink is an ordering marketplace — it handles the transaction. TerraTrack is a field sales CRM — it handles everything BEFORE and AFTER the transaction. The visits, the sample drops, the follow-ups, the relationship management. They're complementary, not competing."
+      a: "LeafLink is an ordering marketplace — it handles the transaction. Trova is a field sales CRM — it handles everything BEFORE and AFTER the transaction. The visits, the sample drops, the follow-ups, the relationship management. They're complementary, not competing."
     },
     {
       q: "What if I only have 1-2 reps?",

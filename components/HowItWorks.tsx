@@ -16,7 +16,7 @@ export default function HowItWorks() {
     },
     {
       num: "3",
-      title: "Let TerraTrack work",
+      title: "Let Trova work",
       desc: "Smart alerts tell you when to follow up, when to reorder, and which accounts need attention."
     },
     {
