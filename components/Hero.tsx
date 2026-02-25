@@ -26,7 +26,7 @@ export default function Hero() {
             </h1>
             
             <p className="text-lg sm:text-xl text-slate-gray mb-8 max-w-2xl leading-relaxed">
-              Trova gives cannabis brand sales managers real-time visibility into every rep visit, sample drop, and pipeline deal — so no dispensary relationship falls through the cracks.
+              Trova gives cannabis brand sales managers real-time visibility into every rep visit, sample drop, and pipeline deal, so no dispensary relationship falls through the cracks.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto mb-8">
