@@ -50,7 +50,7 @@ export default function Hero() {
                   <Star key={i} className="w-4 h-4 fill-current" />
                 ))}
               </div>
-              <span>Built by a cannabis sales rep who scaled to 100+ retail locations</span>
+              <span>Recommended by top cannabis brands nationwide</span>
             </div>
           </motion.div>
 

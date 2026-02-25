@@ -7,12 +7,12 @@ export default function PainPoints() {
   const painPoints = [
     {
       icon: <MessageSquare className="w-8 h-8 text-accent" />,
-      title: "Your CRM is a text thread",
-      description: "Orders live in iMessage. Visit notes live in your head. When a rep leaves, everything walks out the door with them."
+      title: "Your CRM is a spreadsheetd",
+      description: "Orders live in emails and text messages. Visit notes live in your head. When a rep leaves, everything walks out the door with them."
     },
     {
       icon: <FileSpreadsheet className="w-8 h-8 text-accent" />,
-      title: "Your pipeline is a spreadsheet",
+      title: "Your account management is outdated",
       description: "You built a Google Sheet to track accounts. It was outdated the moment you shared it. Your manager has no idea what your team did today."
     },
     {
